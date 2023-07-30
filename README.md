@@ -2,6 +2,10 @@
 
 本repo记录我学习以太坊的过程。
 
+### 项目
+
+我们学校的区块链协会小范围公测了一个DApp，可惜网址和gitee不能发上来。
+
 ### 资讯
 
 * DeBank [=>>](https://debank.com/stream?tab=hot) web3事件等收集
@@ -11,7 +15,7 @@
 ### 水龙头
 
 * sepolia水龙头 [=>>](https://sepoliafaucet.com/) 每24h免费拿0.5个SepoliaETH
-* sepolia水龙头 [=>>](https://sepolia-faucet.pk910.de) PoW挖矿水龙头，速度还行
+* sepolia水龙头 [=>>](https://sepolia-faucet.pk910.de) PoW挖矿水龙头，速度还行，但是不知道对硬件有没有损伤。
 
 ### 工具
 
@@ -20,9 +24,11 @@
 
 ### 教程
 
-* solidity以太坊官方文档 [=>>](https://docs.soliditylang.org/zh/latest/) 开发智能合约首选语言
+* solidity以太坊官方教程 [=>>](https://docs.soliditylang.org/zh/latest/) 开发智能合约首选语言
+* solidity文档 [=>>](https://docs.soliditylang.org/)
 * golang以太坊开发教程 [=>>](https://goethereumbook.org/zh/) 使用golang连接到以太坊主网络并交互
 * remix使用教程 [=>>](https://remix-ide.readthedocs.io/en/latest/)
+* remix教程中文版 [=>>](https://remix-ide.readthedocs.io/zh_CN/latest/)
 
 ### 特定于完成某一项任务的教程
 
