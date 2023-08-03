@@ -43,6 +43,12 @@
 * https://ethereum.org/zh/developers/tutorials/set-up-web3js-to-use-ethereum-in-javascript/
 * https://mikedabydeen.hashnode.dev/build-a-dapp-using-solidjs-tailwindcss-web3 这个好
 
+感觉weui可能用不了，试试hopeui：https://hope-ui.com/docs/general/icon-button
+但是hopeui本身不再维护了。另外tailwindcss是不是能用？貌似官方教程也提到了。
+
+web3js知乎：https://zhuanlan.zhihu.com/p/570110151?utm_id=0
+solidjs tricks：https://www.zhihu.com/question/485310396/answer/2503166165?utm_id=0
+
 ### 特定于完成某一项任务的教程
 
 * remix上如何部署合约 [=>>](https://hackernoon.com/zh/%E4%BD%BF%E7%94%A8-remix-%E6%88%96-dapp-%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97%E5%9C%A8-ethereums-sepolia-testnet-%E4%B8%8A%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
