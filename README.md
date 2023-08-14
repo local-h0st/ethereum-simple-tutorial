@@ -64,7 +64,8 @@
   [=>>](https://web3js.readthedocs.io/en/v1.10.0/getting-started.html) 英文文档
 
   [=>>](https://www.qikegu.com/docs/5124) 中文第三方教程
-  http://web3js.cn/web3js/
+
+  http://web3js.cn/web3js/ 这个不错
 
 **特定任务**
 
