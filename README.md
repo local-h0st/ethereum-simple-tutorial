@@ -71,6 +71,12 @@
 
   可以搜索web3js tutorial
 
+  http://cw.hubwiz.com/card/c/web3.js-1.0/1/4/8/
+
+  https://www.dappuniversity.com/articles/web3-js-intro
+
+  https://docs.solidjs.com/references/api-reference/basic-reactivity/createResource
+
 **特定任务**
 
 * remix上如何部署合约 [=>>](https://hackernoon.com/zh/%E4%BD%BF%E7%94%A8-remix-%E6%88%96-dapp-%E5%BC%80%E5%8F%91%E7%B3%BB%E5%88%97%E5%9C%A8-ethereums-sepolia-testnet-%E4%B8%8A%E9%83%A8%E7%BD%B2%E4%BD%A0%E7%9A%84%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6)
