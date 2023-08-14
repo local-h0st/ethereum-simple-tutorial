@@ -85,6 +85,8 @@
 
 * web3js连接metamask [=>>](https://blog.valist.io/how-to-connect-web3-js-to-metamask-in-2020-fee2b2edf58a) 很好
 
+* 解决地址不可转账的问题 [=>>](https://ethereum.stackexchange.com/questions/113716/send-and-transfer-are-only-available-for-objects-of-type-address-payable) stackoverflow
+
   
 
 **暂时无用**
