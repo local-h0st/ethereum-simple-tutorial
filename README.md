@@ -83,6 +83,8 @@
 
 * 使用solidjs+tailwindcss+web3开发DApp [=>>](https://mikedabydeen.hashnode.dev/build-a-dapp-using-solidjs-tailwindcss-web3) 这个不错
 
+* web3js连接metamask [=>>](https://blog.valist.io/how-to-connect-web3-js-to-metamask-in-2020-fee2b2edf58a) 很好
+
   
 
 **暂时无用**
