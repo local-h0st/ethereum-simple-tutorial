@@ -87,6 +87,8 @@
 
 * 解决地址不可转账的问题 [=>>](https://ethereum.stackexchange.com/questions/113716/send-and-transfer-are-only-available-for-objects-of-type-address-payable) stackoverflow
 
+* payable相关 [=>>](https://www.jianshu.com/p/d7f620d23c5b) 主要是转账等
+
   
 
 **暂时无用**
