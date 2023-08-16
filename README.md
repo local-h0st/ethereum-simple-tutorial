@@ -4,6 +4,8 @@
 
 ### 项目
 
+自己搞的一个小demo [仓库](https://github.com/local-h0st/dapp-donut-vending-machine) [GithubPage](https://local-h0st.github.io/dapp-donut-vending-machine/dist/)
+
 我们学校的区块链协会小范围公测了一个DApp，可惜网址和gitee不能发上来。
 
 ### 资讯
