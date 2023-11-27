@@ -4,6 +4,8 @@
 
 一个很好的web3学院：[WTF Academy](wtf.academy)
 
+知乎[邢永涛](https://www.zhihu.com/people/xingyongtao)，关于Go和以太坊
+
 ### 项目
 
 自己搞的一个小demo [仓库](https://github.com/local-h0st/dapp-donut-vending-machine) [GithubPage](https://local-h0st.github.io/dapp-donut-vending-machine/dist/)
