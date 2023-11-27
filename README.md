@@ -2,6 +2,8 @@
 
 本repo记录我学习以太坊的过程。
 
+一个很好的web3学院：[WTF Academy](wtf.academy)
+
 ### 项目
 
 自己搞的一个小demo [仓库](https://github.com/local-h0st/dapp-donut-vending-machine) [GithubPage](https://local-h0st.github.io/dapp-donut-vending-machine/dist/)
